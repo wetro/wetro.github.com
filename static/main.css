@@ -120,7 +120,7 @@ h4{
 
 @font-face{
     font-family: Metropolis 1920;
-    src: url('Metropolis 1920.otf');
+    src: url('/Metropolis 1920.otf');
     font-weight: 100;
     
 }
@@ -128,7 +128,7 @@ h4{
 @font-face{
 
   font-family: Quicksand;
-  src: url('Quicksand_Book.otf');
+  src: url('/Quicksand_Book.otf');
   font-weight: normal;
 
 
