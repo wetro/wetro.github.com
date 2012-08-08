@@ -89,7 +89,7 @@ h2{
     color: white;
     letter-spacing: -30px;
     padding-bottom: -40px;
-    position: absolute;
+    position: fixed;
 }
 
 h3{
