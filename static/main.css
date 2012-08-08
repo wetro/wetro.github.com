@@ -81,7 +81,11 @@ h1 {
   
 }
 h2{
+<<<<<<< HEAD
     font-family: Metropolis 1920;    
+=======
+    font-family: Metropolis 1920;
+>>>>>>> @font-face
     font-size: 1500%;
     margin: 0 auto;
     text-align: center;
