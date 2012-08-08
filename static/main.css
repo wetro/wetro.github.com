@@ -36,6 +36,7 @@ header {
   margin: 0 auto 4em;
   background: #ff8000;
   padding-top: 75px;
+  position: fixed;
 
 }
 
