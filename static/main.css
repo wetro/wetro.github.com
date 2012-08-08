@@ -36,7 +36,6 @@ header {
   margin: 0 auto 4em;
   background: #ff8000;
   padding: 40px 0;
-  padding top: 50px;
 }
 
 
@@ -82,12 +81,7 @@ h1 {
   
 }
 h2{
-  font-family: "Metropolis1920";
-/*<<<<<<< HEAD
-    font-family: Metropolis 1920;    
-=======
-    font-family: Metropolis 1920;
->>>>>>> @font-face*/
+    font-family: "Metropolis1920";
     font-size: 1500%;
     margin: 0 auto;
     text-align: center;
@@ -123,13 +117,7 @@ h4{
     padding-bottom: 100px;
     padding-top: 30px;
 }
-
-@font-face{
-    font-family: Metropolis 1920;
-    src: url('Metropolis 1920.otf');
-    font-weight: normal;
     
-}
 
 @font-face{
 
