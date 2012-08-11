@@ -81,7 +81,7 @@ a::-moz-selection{
 
 #plain{
 
-  color: white;
+  /*color: white;*/
   text-decoration: none;
 }
 #plain:hover{
