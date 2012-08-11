@@ -136,6 +136,9 @@ h4{
   background: #ff8000;
 
 }
+#main::-moz-selection{
+  background: #FFCC99;
+}
 @font-face{
 
   font-family: Quicksand;
