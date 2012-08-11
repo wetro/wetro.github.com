@@ -28,7 +28,7 @@ html {
 }
 
 header, section, footer {
-  padding: 0 20px;
+  padding: 0 10px;
   margin: 0 auto;
   /*position: fixed;*/
   -webkit-box-sizing: border-box;
@@ -89,7 +89,7 @@ h1 {
 }
 h2{
     font-family: "Metropolis1920";
-    font-size: 1500%;
+    font-size: larger;
     margin: 0 auto;
     text-align: center;
     color: white;
