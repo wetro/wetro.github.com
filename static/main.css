@@ -85,13 +85,13 @@ a::-moz-selection{
   text-decoration: none;
 }
 
-#plain::selection{
+/*#plain::selection{
   background: #FFCC99;
 
 }
 #plain::-moz-selection{
   background: #FFCC99;
-}
+}*/
 
 
 
@@ -160,7 +160,7 @@ h4{
 }
     
 #main::selection{
-  background: #ff8000;
+  background: #FFCC99;
 
 }
 #main::-moz-selection{
