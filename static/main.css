@@ -97,16 +97,8 @@ h2{
     padding-bottom: -40px;
    
 }
-h2:hover{
-    font-family: "Metropolis1920";
-    font-size: 1500%;
-    text-align: center;
-    
-    color: #FFA742;
-    letter-spacing: -30px;
-    padding-bottom: -40px;
-   
-}
+
+
 
 h3{
     font-family: Quicksand;
