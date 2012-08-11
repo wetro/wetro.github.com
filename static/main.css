@@ -38,7 +38,7 @@ header, section, footer {
 }
 
 header {
-  margin: 0 auto 4em;
+  margin: 0 auto 10em;
   background: #ff8000;
   padding-top: 75px;
   overflow: hidden;
