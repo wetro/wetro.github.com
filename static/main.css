@@ -40,7 +40,7 @@ header, section, footer {
 header {
   margin: 0 auto 4em;
   background: #ff8000;
-  padding-top: 75px;
+  padding-top: 50px;
   overflow: hidden;
 
 }
@@ -100,8 +100,8 @@ h1 {
 h2{
     font-family: "Metropolis1920";
     font-size: 1500%;
-    padding-top: 75px;
-    line-height: 2em;
+    /*padding-top: 75px;*/
+    line-height: 1.4em;
 
     
     text-align: center;
