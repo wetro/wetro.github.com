@@ -133,7 +133,7 @@ h4{
 }
     
 #main::selection{
-  color: #ff8000;
+  background: #ff8000;
 
 }
 @font-face{
