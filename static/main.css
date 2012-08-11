@@ -31,14 +31,14 @@ header, section, footer {
   padding: 0 10px;
   margin: 0 auto;
   /*position: fixed;*/
-  -webkit-box-sizing: border-box;
+/*  -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box;
+  box-sizing: border-box;*/
 
 }
 
 header {
-  margin: 0 auto 10em;
+  margin: 0 auto 4em;
   background: #ff8000;
   padding-top: 75px;
   overflow: hidden;
