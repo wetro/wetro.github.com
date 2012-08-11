@@ -101,11 +101,12 @@ h2{
     font-family: "Metropolis1920";
     font-size: 1500%;
     padding-top: 75px;
+    line-height: 1.5em;
+
     
     text-align: center;
     color: white;
     letter-spacing: -30px;
-    padding-bottom: -40px;
    
 }
 
@@ -160,7 +161,6 @@ h4{
 
  @font-face {
   font-family:"Metropolis1920";
-  line-height: 1.5em;
   src:url("Metropolis_1920.eot?") format("eot"),url("Metropolis_1920.woff") format("woff"),url("Metropolis_1920.ttf") format("truetype"),url("Metropolis_1920.svg#Metropolis1920") format("svg");font-weight:normal;font-style:normal;
 }
 
