@@ -72,10 +72,28 @@ a:hover {
 }
 
 a::selection{
-  background: #ff8000;
+  background: #FFCC99;
 
 }
 a::-moz-selection{
+  background: #FFCC99;
+}
+
+#plain{
+
+  color: white;
+  text-decoration: none;
+}
+#plain:hover{
+
+  border-bottom: 1px solid;
+
+}
+#plain::selection{
+  background: #FFCC99;
+
+}
+#plain::-moz-selection{
   background: #FFCC99;
 }
 
