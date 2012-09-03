@@ -98,7 +98,7 @@ img
 {
 opacity:0.1;
 filter:alpha(opacity=10); /* For IE8 and earlier */
-display: inherit;
+display: inline-block;
 margin-right: auto;
 margin-left: auto;
 
