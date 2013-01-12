@@ -113,6 +113,12 @@ margin-bottom: auto;*/
 
 }
 
+.myImg:hover{
+
+  font-family: 'Oswald', sans-serif;
+
+} 
+
 
 p {
   margin: 0 0 1em;
