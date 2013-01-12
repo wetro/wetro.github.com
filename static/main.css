@@ -73,11 +73,11 @@ a:hover {
 }
 
 a::selection{
-  background: #e86c7c;
+  background: #eab9b3;
 
 }
 a::-moz-selection{
-  background: #e86c7c;
+  background: #eab9b3;
 }
 
 #plain{
@@ -173,11 +173,11 @@ h4{
 }
     
 #main::selection{
-  background: #e86c7c;
+  background: #eab9b3;
 
 }
 #main::-moz-selection{
-  background: #e86c7c;
+  background: #eab9b3;
 }
 @font-face{
 
