@@ -96,8 +96,8 @@ a::-moz-selection{
 
 img
 {
-/*opacity:0.3;
-filter:alpha(opacity=30);*/ /* For IE8 and earlier */
+opacity:0.3;
+filter:alpha(opacity=30); /* For IE8 and earlier */
 /*display: block;*/
 /*margin-right: 50%;
 margin-left: 50%;*/
@@ -141,7 +141,8 @@ h2{
     /*padding-right: 50%;
     padding-left: 50%;*/  
 
-    text-align: left;
+    text-align: center;
+    padding-bottom: 10%;
     
    
 }
