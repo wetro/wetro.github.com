@@ -62,7 +62,7 @@
    style="fill:#ffffff" />
 <path
    sodipodi:type="arc"
-   style="fill:#ffffff;fill-opacity:1;stroke:#e81830;stroke-width:2.42740892999999991;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   style="fill:#ffffff;fill-opacity:1;stroke:#e81830;stroke-width:2.42740892999999991;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
    id="path5953"
    sodipodi:cx="22.114094"
    sodipodi:cy="56.882565"
