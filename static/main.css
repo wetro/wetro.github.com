@@ -101,8 +101,10 @@ filter:alpha(opacity=30);*/ /* For IE8 and earlier */
 /*display: block;*/
 /*margin-right: 50%;
 margin-left: 50%;*/
-width: 55%;
-height: 75%;
+width: 25%;
+height: 25%;
+position: center;
+
 
 /*margin-top: auto;
 margin-bottom: auto;*/
