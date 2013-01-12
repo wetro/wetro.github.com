@@ -135,13 +135,9 @@ h1 {
 h2{
     font-family: 'Oswald', sans-serif;
     font-size: 35%;
-    /*padding-top: 75px;*/
-    line-height: 1.4em;
+    padding-left: 12.5%;
+    padding-right: 12.5%; 
 
-    
-/*    text-align: center;
-*/    
-  color: white;
     
    
 }
