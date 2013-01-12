@@ -99,8 +99,10 @@ img
 opacity:0.3;
 filter:alpha(opacity=30); /* For IE8 and earlier */
 /*display: block;*/
-margin-right: 50%;
-margin-left: 50%;
+/*margin-right: 50%;
+margin-left: 50%;*/
+max-width: 55%;
+max-height: 75%;
 
 /*margin-top: auto;
 margin-bottom: auto;*/
