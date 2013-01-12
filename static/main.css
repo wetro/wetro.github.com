@@ -133,15 +133,15 @@ h1 {
    /* Fix the typography on this... Static remains to be an ugly font...*/
 }
 h2{
-    font-family: "Metropolis1920";
+    font-family: 'Oswald', sans-serif;
     font-size: 1500%;
     /*padding-top: 75px;*/
     line-height: 1.4em;
 
     
-    text-align: center;
-    color: white;
-    letter-spacing: -30px;
+/*    text-align: center;
+*/    color: white;
+    
    
 }
 
