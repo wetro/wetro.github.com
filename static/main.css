@@ -103,7 +103,7 @@ filter:alpha(opacity=30);*/ /* For IE8 and earlier */
 margin-left: 50%;*/
 width: 25%;
 height: 25%;
-position: center;
+align: middle;
 
 
 /*margin-top: auto;
