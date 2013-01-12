@@ -134,11 +134,12 @@ h1 {
 }
 h2{
     font-family: 'Oswald', sans-serif;
-    font-size: 500%;
+    font-size: 750%;
     color: white;
     width: 50%;
 
-    
+    padding-right: 50%;
+    padding-left: 50%;  
 
     
    
