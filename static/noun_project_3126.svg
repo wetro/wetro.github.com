@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,7 +22,17 @@
    id="metadata3382"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs3380" /><sodipodi:namedview
+   id="defs3380"><linearGradient
+     id="linearGradient5915"
+     osb:paint="solid"><stop
+       style="stop-color:#000000;stop-opacity:1;"
+       offset="0"
+       id="stop5917" /></linearGradient><linearGradient
+     id="linearGradient5909"
+     osb:paint="solid"><stop
+       style="stop-color:#e81830;stop-opacity:1;"
+       offset="0"
+       id="stop5911" /></linearGradient></defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -51,11 +62,11 @@
    style="fill:#ffffff" />
 <path
    sodipodi:type="arc"
-   style="fill:#ffffff;fill-opacity:1;opacity:1;stroke:#e81830;stroke-opacity:0"
-   id="path5845"
-   sodipodi:cx="77.828117"
-   sodipodi:cy="89.146904"
-   sodipodi:rx="11.281507"
-   sodipodi:ry="10.853095"
-   d="m 89.109624,89.146904 a 11.281507,10.853095 0 1 1 -22.563013,0 11.281507,10.853095 0 1 1 22.563013,0 z"
-   transform="matrix(2.0024014,0,0,2.0814435,-131.9721,-17.315287)" /></svg>
+   style="fill:#ffffff;fill-opacity:1;stroke:#e81830;stroke-width:2.42740892999999991;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   id="path5953"
+   sodipodi:cx="22.114094"
+   sodipodi:cy="56.882565"
+   sodipodi:rx="13.833931"
+   sodipodi:ry="14.439796"
+   d="m 35.948025,56.882565 a 13.833931,14.439796 0 1 1 -27.6678622,0 13.833931,14.439796 0 1 1 27.6678622,0 z"
+   transform="matrix(1.7441528,0,0,1.6709716,-11.360076,68.322335)" /></svg>
