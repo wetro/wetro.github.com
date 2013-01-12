@@ -113,11 +113,6 @@ margin-bottom: auto;*/
 
 }
 
-.myImg:hover{
-
-  font-family: 'Oswald', sans-serif;
-
-} 
 
 
 p {
@@ -132,7 +127,7 @@ h1 {
   background-size: 471px 165px;
   text-indent: -9009em;
   margin: 0 auto;
-  font-family: "Static";
+  font-family: 'Oswald', sans-serif;
   font-size: 500%;
   color: #ffffff;
    /* Fix the typography on this... Static remains to be an ugly font...*/
