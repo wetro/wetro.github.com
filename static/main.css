@@ -98,9 +98,9 @@ img
 {
 opacity:0.3;
 filter:alpha(opacity=30); /* For IE8 and earlier */
-display: block;
-margin-right: auto;
-margin-left: auto;
+/*display: block;*/
+margin-right: 50%;
+margin-left: 50%;
 
 /*margin-top: auto;
 margin-bottom: auto;*/
