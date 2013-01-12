@@ -45,13 +45,13 @@
    inkscape:window-height="738"
    id="namedview3378"
    showgrid="false"
-   inkscape:zoom="3.509891"
-   inkscape:cx="54.613265"
-   inkscape:cy="57.62419"
+   inkscape:zoom="5.773645"
+   inkscape:cx="63.187109"
+   inkscape:cy="61.026615"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="g5972" />
+   inkscape:current-layer="g5967" />
 
 
 <g
@@ -76,7 +76,7 @@
        d="m 35.948025,56.882565 c 0,7.974879 -6.193662,14.439796 -13.833931,14.439796 -7.640269,0 -13.8339312,-6.464917 -13.8339312,-14.439796 0,-7.97488 6.1936622,-14.439797 13.8339312,-14.439797 7.640269,0 13.833931,6.464917 13.833931,14.439797 z"
        transform="matrix(1.7441528,0,0,1.6709716,-11.360076,68.322335)" /></g><text
      xml:space="preserve"
-     style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+     style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
      x="7.4076385"
      y="108.25925"
      id="text5977"
@@ -85,5 +85,17 @@
        id="tspan5979"
        x="7.4076385"
        y="108.25925"
-       style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#ffffff">Wesley                 Roth</tspan></text>
+       style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oswald;-inkscape-font-specification:Oswald">Wesley </tspan></text>
+<text
+     xml:space="preserve"
+     style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+     x="144.82864"
+     y="112.09348"
+     id="text5981"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5983"
+       x="144.82864"
+       y="112.09348"
+       style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#ffffff">Roth</tspan></text>
 </g></svg>
